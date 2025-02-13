@@ -111,7 +111,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
         <button class="next-button" id="nextButton" onclick="nextQuestion()">Next Question</button>
         
         <div class="signature">
-            &copy; 2025 Daniel Rojas | &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
+            &copy; 2025 Daniel Rojas :: TΣʃ :: &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
         </div>
     </div>
 
@@ -434,7 +434,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ...                 <div class="score">Final Prize: $${currentMoney}</div>
 ...                 <p>Congratulations on completing the TOEFL Millionaire Challenge!</p>
 ...                 <div class="signature">
-...                     &copy; 2025 Daniel Rojas | &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
+...                     &copy; 2025 Daniel Rojas :: TΣʃ :: &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
 ...                 </div>
 ...             `;
 ...         }
